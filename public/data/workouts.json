@@ -1,0 +1,89 @@
+{
+  "workouts": [
+    {
+      "date": "2025-07-19",
+      "exercises": [
+        {
+          "id": "1",
+          "name": "Push-ups",
+          "description": "Standard push-ups focusing on chest, shoulders, and triceps",
+          "mediaUrl": "/placeholder.svg?height=200&width=300",
+          "rounds": 3,
+          "quantity": "15 reps",
+          "weight": "bodyweight",
+          "completed": false
+        },
+        {
+          "id": "2",
+          "name": "Squats",
+          "description": "Bodyweight squats for leg strength and endurance",
+          "mediaUrl": "/placeholder.svg?height=200&width=300",
+          "rounds": 3,
+          "quantity": "20 reps",
+          "weight": "bodyweight",
+          "completed": false
+        },
+        {
+          "id": "3",
+          "name": "Plank",
+          "description": "Core strengthening exercise maintaining straight body position",
+          "mediaUrl": "/placeholder.svg?height=200&width=300",
+          "rounds": 3,
+          "quantity": "30 seconds",
+          "weight": "bodyweight",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "date": "2025-07-17",
+      "exercises": [
+        {
+          "id": "4",
+          "name": "Deadlifts",
+          "description": "Compound movement targeting posterior chain muscles",
+          "mediaUrl": "/placeholder.svg?height=200&width=300",
+          "rounds": 4,
+          "quantity": "8 reps",
+          "weight": "135 lbs",
+          "completed": false
+        },
+        {
+          "id": "5",
+          "name": "Pull-ups",
+          "description": "Upper body pulling exercise for back and biceps",
+          "mediaUrl": "/placeholder.svg?height=200&width=300",
+          "rounds": 3,
+          "quantity": "10 reps",
+          "weight": "bodyweight",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "date": "2025-07-15",
+      "exercises": [
+        {
+          "id": "6",
+          "name": "Bench Press",
+          "description": "Chest pressing movement with barbell",
+          "mediaUrl": "/placeholder.svg?height=200&width=300",
+          "rounds": 4,
+          "quantity": "10 reps",
+          "weight": "185 lbs",
+          "completed": false
+        },
+        {
+          "id": "7",
+          "name": "Lunges",
+          "description": "Single-leg exercise for balance and leg strength",
+          "mediaUrl": "/placeholder.svg?height=200&width=300",
+          "rounds": 3,
+          "quantity": "12 reps each leg",
+          "weight": "bodyweight",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
